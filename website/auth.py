@@ -1,5 +1,4 @@
 from flask import Blueprint, render_template, request, flash
-#blueprint tells the application that this file contains multiple URL paths that will be used for the site
 
 auth = Blueprint('auth', __name__)
 

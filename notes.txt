@@ -1,0 +1,12 @@
+ init file: 
+ when this __init__ file is put into a folder, it makes that folder a python package
+ init ln 11: encrypts cookies and session data related to the website
+
+ MAIN:
+ line 11:
+only if we run this file are we going to execute this line
+#runs flask application and starts up flask web server. turn this off if in production. 
+# this is the entry point for the app
+
+AUTH:
+line 1: #blueprint tells the application that this file contains multiple URL paths that will be used for the site
